@@ -1,5 +1,5 @@
 # Lab report
-The goal of this session is to ensure that we have a working IDE as well as getting in touch with Heroku. All the steps below have been done in a Windows 11 Home machine.
+The goal of this session is to ensure that we have a working IDE as well as having a first experience with Heroku. All the steps below have been done in a Windows 11 Home machine.
 
 
 ## Installation
