@@ -30,5 +30,4 @@ And finally, this is the database schema generated according to the code I wrote
 </p>
 
 ## Link to the code
-
-LINKE AL CODIUGOS
+[Source code](https://github.com/FelixExDe/DAT250/tree/main/experiment-2)
