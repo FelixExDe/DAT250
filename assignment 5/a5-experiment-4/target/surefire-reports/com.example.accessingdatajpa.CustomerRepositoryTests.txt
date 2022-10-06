@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.accessingdatajpa.CustomerRepositoryTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.194 s - in com.example.accessingdatajpa.CustomerRepositoryTests
