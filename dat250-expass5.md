@@ -1,4 +1,4 @@
-# Assignment 4 - Rest API
+# Assignment 5 - Spring Boot
 The goal of this assignment is to have a first contact with the Spring framework for Java and have a look at the structure of a web application built in this framawork.
 
 ## About the experiments
